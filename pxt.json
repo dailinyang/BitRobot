@@ -1,0 +1,16 @@
+{
+    "name": "BitRobot",
+	"version": "0.0.1",
+    "license": "MIT",
+	"public": true,
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.4.2"
+    },
+    "description": "BitRobot",
+    "files": [
+		"README.md",
+        "main.ts",
+		"_locales/zh/BitRobot-strings.json"
+    ]
+}
