@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-neoGame=github:dailinyang/BitRobot
+BitRobot=github:dailinyang/BitRobot
 ```
