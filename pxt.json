@@ -5,12 +5,12 @@
 	"public": true,
     "dependencies": {
         "core": "*",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.4.2"
     },
     "description": "BitRobot",
     "files": [
 		"README.md",
         "main.ts",
+		"sendBufferBitRobot.asm"
 		"_locales/zh/BitRobot-strings.json"
     ]
 }
